@@ -1,0 +1,10 @@
+{
+  "name": "gulp-general",
+  "version": "1.0.0",
+  "description": "gulp general pack",
+  "main": "index.js",
+  "repository": "git@github.com:dedenkof/gulp-general.git",
+  "author": "Volodymyr Dedenko <dedenkof@ukr.net>",
+  "license": "MIT",
+  "private": true
+}
